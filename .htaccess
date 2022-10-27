@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule /hello /world [R=301,QSD,L]
+RewriteRule hello-world https://example.com/ [R=301,QSD,L]
