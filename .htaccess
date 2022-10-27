@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule /hello /world [R=301,QSD,L]
